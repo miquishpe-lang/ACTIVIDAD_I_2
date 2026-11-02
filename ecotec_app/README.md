@@ -56,7 +56,3 @@ flutter run
 ## Git
 La rama estable propuesta es `main`; el trabajo de integración está en `develop` y las funciones pueden separarse en `feature/connectivity`, `feature/media-permissions` y `feature/local-notifications`. Los commits locales y las ramas deben publicarse en una cuenta GitHub/GitLab del estudiante para disponer de una URL pública verificable. No se afirma que este paquete se haya publicado automáticamente.
 
-## Limitaciones a verificar en el entorno de entrega
-- Ejecutar `flutter pub get`, `flutter analyze` y `flutter test` con la versión instalada de Flutter.
-- Probar cámara/notificaciones en un dispositivo o emulador compatible; algunas funciones no operan plenamente en el simulador.
-- Actualizar el enlace del repositorio y agregar capturas reales en el informe después de publicar y ejecutar las pruebas.
